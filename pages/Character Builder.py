@@ -151,8 +151,12 @@ def class_section():
             pass
 
     with class_col4:
-        if st.button("Next", type='primary', on_click=next):
-            pass
+        if ss[f"class_{ss.num_of_classes}_ix"] is None or ss[f"class_{ss.num_of_classes}_level_ix"] is None:
+            if st.button("Next", type='primary', on_click=failed_next):
+                pass
+        else:    
+            if st.button("Next", type='primary', on_click=next):
+                pass
 
 
 def scores_section():
