@@ -1,0 +1,40 @@
+This file tracks bugs found/created in the app.  If a bug is fixed, it will detail the found
+solution.  Otherwise, it will list a severity number, with 1 being the least severe and 5
+being the most.
+
+1)  The location of the index update in a race/subrace's traitText can cause unique problems.
+    This refers to the "if choices[trait] is not None then update the index with the choice".
+    When this block is located at the front of traitText, then the select box values are not
+    retained upon moving forward and back between sections.  When this block is located after
+    each respective select box, it will sometimes require the user to click their new choice
+    twice when trying to change their selection.  Need to find the best of both worlds.
+
+    SOLUTION:  update the index using the on_change parameter in the selectbox.
+
+2)  Sometimes when selecting a different option for the variant human's 'asi1', the 'asi2' box
+    will change to something completely different.  It must have to do with how the index for the
+    select box stays the same while the order of the options in the select box changes.  This occurs
+    with any group of select boxes whose options depend on the others' selection. Maybe updating both 
+    indices on a change will fix this.  
+
+    SOLUTION:  manually update the second select box's index immediately before creating the box.
+
+3)  The first select box in a group of dependent select boxes will not update its options
+    to reflect the choices made in later boxes.  However, selecting a mutually exclusive option
+    updates the following boxes as expected.  
+
+    SOLUTION:  this was probably insanely overkill, but it standardizes dependent selectboxes for
+               every race or subrace option.  The functions dependent_selectboxes() and 
+               limit_options() were created to make creating any number of dependent selectboxes
+               as easy as creating a normal one.  While working on this bug, I also created the
+               utility.py file to separate my additional functions from reference.py.
+
+4)  In the class level selection, selecting the level of a multiclass will only update the options
+    of the level select boxes beyond it, but not before it.  However, when interacting with any widget 
+    on the screen afterwards, assuming the resulting levels do not sum past 20, then all boxes will be 
+    correctly updated.  This must have something to do with how the page refreshes after interactions.
+
+    SOLUTION:  instead of pulling from the class object's level attribute in the count_other_levels
+               function, pull from the key that is tied to the select box.  From my testing with this
+               bug, it seems like a select box will update the key, then run the on_change function,
+               then update the outside variable.

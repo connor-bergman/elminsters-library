@@ -1,0 +1,698 @@
+﻿name,level,school,components,cast_time,duration,range,concentration,ritual,classes,description
+Acid Splash,Cantrip,Conjuration,VS,1-a,0-i,60-f,0,0,sorcerer wizard artificer,"You hurl a bubble of acid. Choose one or two creatures you can see within range. If you choose two, they must be within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+
+This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+Blade Ward,Cantrip,Abjuration,VS,1-a,1-r,0-s,0,0,,
+Booming Blade,Cantrip,Evocation,SM,1-a,1-r,0-s,0,0,,
+Chill Touch,Cantrip,Necromancy,VS,1-a,1-r,120-f,0,0,sorcerer warlock wizard,"You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
+
+If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Control Flames,Cantrip,Transmutation,S,1-a,0-i,60-f,0,0,druid sorcerer wizard,"You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
+
+You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+You instantaneously extinguish the flames within the cube.
+You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
+You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+Create Bonfire,Cantrip,Conjuration,VS,1-a,1-m,60-f,1,0,druid sorcerer warlock wizard artificer,"You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.
+
+The bonfire ignites flammable objects in its area that aren’t being worn or carried.
+
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Dancing Lights,Cantrip,Evocation,VSM,1-a,1-m,120-f,1,0,bard sorcerer wizard artificer,"You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
+
+As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range."
+Druidcraft,Cantrip,Transmutation,VS,1-a,0-i,30-f,0,0,druid,"Whispering to the spirits of nature, you create one of the following effects within range:
+
+You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+You instantly light or snuff out a candle, a torch, or a small campfire."
+Eldritch Blast,Cantrip,Evocation,VS,1-a,0-i,120-f,0,0,warlock,"A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
+
+The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam."
+Encode Thoughts,Cantrip,Enchantment,S,1-a,8-h,0-s,0,0,,
+Fire Bolt,Cantrip,Evocation,VS,1-a,0-i,120-f,0,0,sorcerer wizard artificer,"You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+Friends,Cantrip,Enchantment,SM,1-a,1-m,0-s,1,0,,
+Frostbite,Cantrip,Evocation,VS,1-a,0-i,60-f,0,0,druid sorcerer warlock wizard artificer,"You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+Green-Flame Blade,Cantrip,Evocation,SM,1-a,0-i,0-s,0,0,,
+Guidance,Cantrip,Divination,VS,1-a,1-m,0-t,1,0,cleric druid artificer,"You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends."
+Gust,Cantrip,Transmutation,VS,1-a,0-i,30-f,0,0,druid sorcerer wizard,"You seize the air and compel it to create one of the following effects at a point you can see within range:
+
+One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+
+You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
+
+You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze."
+Infestation,Cantrip,Conjuration,VSM,1-a,0-i,30-f,0,0,,
+Light,Cantrip,Evocation,VM,1-a,1-h,0-t,0,0,bard cleric sorcerer wizard artificer,"You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
+
+If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell."
+Lightning Lure,Cantrip,Evocation,V,1-a,0-i,15-f,0,0,,
+Mage Hand,Cantrip,Conjuration,VS,1-a,1-m,30-f,0,0,bard sorcerer warlock wizard artificer,"A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+
+The hand can't attack, activate magic items, or carry more than 10 pounds."
+Magic Stone,Cantrip,Transmutation,VS,1-b,1-m,0-t,0,0,druid warlock artificer,"You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Hit or miss, the spell then ends on the stone.
+
+If you cast this spell again, the spell ends early on any pebbles still affected by it."
+Mending,Cantrip,Transmutation,VSM,1-m,0-i,0-t,0,0,bard cleric druid sorcerer wizard artificer,"This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object."
+Message,Cantrip,Transmutation,VSM,1-a,1-r,120-f,0,0,bard sorcerer wizard artificer,"You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings."
+Mind Sliver,Cantrip,Enchantment,V,1-a,0-i,60-f,0,0,,
+Minor Illusion,Cantrip,Illusion,SM,1-a,1-m,30-f,0,0,bard sorcerer warlock wizard,"You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+
+If you create an image of an object--such as a chair, muddy footprints, or a small chest--it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature."
+Mold Earth,Cantrip,Transmutation,S,1-a,0-i,30-f,0,0,druid sorcerer wizard,"You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+
+If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
+
+You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.
+
+If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
+
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+Poison Spray,Cantrip,Conjuration,VS,1-a,0-i,10-f,0,0,druid sorcerer warlock wizard artificer,"You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
+
+This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12)."
+Prestidigitation,Cantrip,Transmutation,VS,1-a,1-h,10-f,0,0,bard sorcerer warlock wizard artificer,"This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+
+You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+You instantaneously light or snuff out a candle, a torch, or a small campfire.
+You instantaneously clean or soil an object no larger than 1 cubic foot.
+You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+Primal Savagery,Cantrip,Transmutation,S,1-a,0-i,0-s,0,0,,
+Produce Flame,Cantrip,Conjuration,VS,1-a,10-m,0-s,0,0,druid,"A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
+
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Ray of Frost,Cantrip,Evocation,VS,1-a,0-i,60-f,0,0,sorcerer wizard artificer,"A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Resistance,Cantrip,Abjuration,VSM,1-a,1-m,0-t,1,0,cleric druid artificer,"You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends."
+Sacred Flame,Cantrip,Evocation,VS,1-a,0-i,60-f,0,0,cleric,"Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Shape Water,Cantrip,Transmutation,S,1-a,0-i,30-f,0,0,druid sorcerer wizard,"You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+
+You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
+
+You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
+
+You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
+
+You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+Shillelagh,Cantrip,Transmutation,VSM,1-b,1-m,0-t,0,0,druid,"The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon."
+Shocking Grasp,Cantrip,Evocation,VS,1-a,0-i,0-t,0,0,sorcerer wizard artificer,"Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+Spare the Dying,Cantrip,Necromancy,VS,1-a,0-i,0-t,0,0,cleric artificer,You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+Sword Burst,Cantrip,Conjuration,V,1-a,0-i,0-s,0,0,,
+Thaumaturgy,Cantrip,Transmutation,V,1-a,1-m,30-f,0,0,cleric,"You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
+
+Your voice booms up to three times as loud as normal for 1 minute.
+You cause flames to flicker, brighten, dim, or change color for 1 minute.
+You cause harmless tremors in the ground for 1 minute.
+You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+You instantaneously cause an unlocked door or window to fly open or slam shut.
+You alter the appearance of your eyes for 1 minute.
+
+If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action."
+Thorn Whip,Cantrip,Transmutation,VSM,1-a,0-i,30-f,0,0,,
+Thunderclap,Cantrip,Evocation,S,1-a,0-i,5-f,0,0,bard druid sorcerer warlock wizard artificer,"You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must succeed on a Constitution saving throw or take 1d6 thunder damage.
+
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+Toll the Dead,Cantrip,Necromancy,VS,1-a,0-i,60-f,0,0,,
+True Strike,Cantrip,Divination,S,1-a,1-r,30-f,1,0,bard sorcerer warlock wizard,"You point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended."
+Vicious Mockery,Cantrip,Enchantment,V,1-a,0-i,60-f,0,0,bard,"You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+
+This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4)."
+Word of Radiance,Cantrip,Evocation,VM,1-a,0-i,5-f,0,0,,
+Absorb Elements,1st,Abjuration,S,1-r,1-r,0-s,0,0,druid ranger sorcerer wizard artificer,"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+Alarm,1st,Abjuration,VSM,1-m,8-h,30-f,0,1,ranger wizard artificer,"You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.
+
+A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
+
+An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet."
+Animal Friendship,1st,Enchantment,VSM,1-a,24-h,30-f,0,0,bard druid ranger,"This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st."
+Armor of Agathys,1st,Abjuration,VSM,1-a,1-h,0-s,0,0,,
+Arms of Hadar,1st,Conjuration,VS,1-a,0-i,0-s,0,0,,
+Bane,1st,Enchantment,VSM,1-a,1-m,30-f,1,0,bard cleric,"Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+Beast Bond,1st,Divination,VSM,1-a,10-m,0-t,1,0,druid ranger,"You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see."
+Bless,1st,Enchantment,VSM,1-a,1-m,30-f,1,0,cleric paladin,"You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+Burning Hands,1st,Evocation,VS,1-a,0-i,0-s,0,0,sorcerer wizard,"As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+
+The fire ignites any flammable objects in the area that aren't being worn or carried.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+Catapult,1st,Transmutation,S,1-a,0-i,60-f,0,0,sorcerer wizard artificer,"Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st."
+Cause Fear,1st,Necromancy,V,1-a,1-m,60-f,1,0,,
+Ceremony,1st,Abjuration,VSM,1-h,0-i,0-t,0,1,,
+Chaos Bolt,1st,Evocation,VS,1-a,0-i,120-f,0,0,,
+Charm Person,1st,Enchantment,VS,1-a,1-h,30-f,0,0,bard druid sorcerer warlock wizard,"You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+Chromatic Orb,1st,Evocation,VSM,1-a,0-i,90-f,0,0,,
+Color Spray,1st,Illusion,VSM,1-a,1-r,0-s,0,0,sorcerer wizard,"A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+
+Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st."
+Command,1st,Enchantment,V,1-a,1-r,60-f,0,0,cleric paladin,"You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.
+
+Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can't follow your command, the spell ends.
+
+Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+
+Drop. The target drops whatever it is holding and then ends its turn.
+
+Flee. The target spends its turn moving away from you by the fastest available means.
+
+Grovel. The target falls prone and then ends its turn.
+
+Halt. The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+Compelled Duel,1st,Enchantment,V,1-b,1-m,30-f,1,0,,
+Comprehend Languages,1st,Divination,VSM,1-a,1-h,0-s,0,1,bard sorcerer warlock wizard,"For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
+
+This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language."
+Create or Destroy Water,1st,Transmutation,VSM,1-a,0-i,30-f,0,0,cleric druid,"You either create or destroy water.
+
+Create Water. You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.
+
+Destroy Water. You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st."
+Cure Wounds,1st,Evocation,VS,1-a,0-i,0-t,0,0,bard cleric druid paladin ranger artificer,"A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+Detect Evil and Good,1st,Divination,VS,1-a,10-m,0-s,1,0,cleric paladin,"For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+Detect Magic,1st,Divination,VS,1-a,10-m,0-s,1,1,bard cleric druid paladin ranger sorcerer wizard artificer,"For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+Detect Poison and Disease,1st,Divination,VSM,1-a,10-m,0-s,1,1,cleric druid paladin ranger,"For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+Disguise Self,1st,Illusion,VS,1-a,1-h,0-s,0,0,bard sorcerer wizard artificer,"You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+
+The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
+
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC."
+Dissonant Whispers,1st,Enchantment,V,1-a,0-i,60-f,0,0,,
+Distort Value,1st,Illusion,V,1-m,8-h,0-t,0,0,,
+Divine Favor,1st,Evocation,VS,1-b,1-m,0-s,1,0,paladin,"Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit."
+Earth Tremor,1st,Evocation,VS,1-a,0-i,10-f,0,0,bard druid sorcerer wizard,"You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+Ensnaring Strike,1st,Conjuration,V,1-b,1-m,0-s,1,0,,
+Entangle,1st,Conjuration,VS,1-a,1-m,90-f,1,0,druid,"Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+
+A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+
+When the spell ends, the conjured plants wilt away."
+Expeditious Retreat,1st,Transmutation,VS,1-b,10-m,0-s,1,0,sorcerer warlock wizard artificer,"This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action."
+Faerie Fire,1st,Evocation,V,1-a,1-m,60-f,1,0,bard druid artificer,"Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible."
+False Life,1st,Necromancy,VSM,1-a,1-h,0-s,0,0,sorcerer wizard artificer,"Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st."
+Feather Fall,1st,Transmutation,VM,1-r,1-m,60-f,0,0,bard sorcerer wizard artificer,"Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+Find Familiar,1st,Conjuration,VSM,1-h,0-i,10-f,0,1,,
+Floating Disk,1st,Conjuration,VSM,1-a,1-h,30-f,0,1,,
+Fog Cloud,1st,Conjuration,VS,1-a,1-h,120-f,1,0,,
+Frost Fingers,1st,Evocation,VS,1-a,0-i,0-s,0,0,,
+Goodberry,1st,Transmutation,VSM,1-a,0-i,0-t,0,0,,
+Grease,1st,Conjuration,VSM,1-a,1-m,60-f,0,0,,
+Guiding Bolt,1st,Evocation,VS,1-a,1-r,120-f,0,0,,
+Hail of Thorns,1st,Conjuration,V,1-b,1-m,0-s,1,0,,
+Healing Word,1st,Evocation,V,1-b,0-i,60-f,0,0,,
+Hellish Rebuke,1st,Evocation,VS,1-r,0-i,60-f,0,0,,
+Heroism,1st,Enchantment,VS,1-a,1-m,0-t,1,0,,
+Hex,1st,Enchantment,VSM,1-b,1-h,90-f,1,0,,
+Hideous Laughter,1st,Enchantment,VSM,1-a,1-m,30-f,1,0,,
+Hunter's Mark,1st,Divination,V,1-b,1-h,90-f,1,0,,
+Ice Knife,1st,Conjuration,SM,1-a,0-i,60-f,0,0,,
+Identify,1st,Divination,VSM,1-m,0-i,0-t,0,1,,
+Illusory Script,1st,Illusion,SM,1-m,10-d,0-t,0,1,,
+Inflict Wounds,1st,Necromancy,VS,1-a,0-i,0-t,0,0,,
+Jim's Magic Missile,1st,Evocation,VSM,1-a,0-i,120-f,0,0,,
+Jump,1st,Transmutation,VSM,1-a,1-m,0-t,0,0,,
+Longstrider,1st,Transmutation,VSM,1-a,1-h,0-t,0,0,,
+Mage Armor,1st,Abjuration,VSM,1-a,8-h,0-t,0,0,,
+Magic Missile,1st,Evocation,VS,1-a,0-i,120-f,0,0,,
+Protection from Evil and Good,1st,Abjuration,VSM,1-a,10-m,0-t,1,0,,
+Purify Food and Drink,1st,Transmutation,VS,1-a,0-i,10-f,0,1,,
+Ray of Sickness,1st,Necromancy,VS,1-a,0-i,60-f,0,0,,
+Sanctuary,1st,Abjuration,VSM,1-b,1-m,30-f,0,0,,
+Searing Smite,1st,Evocation,V,1-b,1-m,0-s,1,0,,
+Shield,1st,Abjuration,VS,1-r,1-r,0-s,0,0,,
+Shield of Faith,1st,Abjuration,VSM,1-b,10-m,60-f,1,0,,
+Silent Image,1st,Illusion,VSM,1-a,10-m,60-f,1,0,,
+Silvery Barbs,1st,Enchantment,V,1-r,0-i,60-f,0,0,,
+Sleep,1st,Enchantment,VSM,1-a,1-m,90-f,0,0,,
+Snare,1st,Abjuration,SM,1-m,8-h,0-t,0,0,,
+Speak with Animals,1st,Divination,VS,1-a,10-m,0-s,0,1,,
+Tasha's Hideous Laughter,1st,Enchantment,VSM,1-a,1-m,30-f,1,0,,
+Tasha's Caustic Brew,1st,Evocation,VSM,1-a,1-m,0-s,1,0,,
+Tenser's Floating Disk,1st,Conjuration,VSM,1-a,1-h,30-f,0,1,,
+Thunderous Smite,1st,Evocation,V,1-b,1-m,0-s,1,0,,
+Thunderwave,1st,Evocation,VS,1-a,0-i,0-s,0,0,,
+Unseen Servant,1st,Conjuration,VSM,1-a,1-h,60-f,0,1,,
+Witch Bolt,1st,Evocation,VSM,1-a,1-m,30-f,1,0,,
+Wrathful Smite,1st,Evocation,V,1-b,1-m,0-s,1,0,,
+Zephyr Strike,1st,Transmutation,V,1-b,1-m,0-s,1,0,,
+Acid Arrow,2nd,Evocation,VSM,1-a,0-i,90-f,0,0,,
+Aganazzar's Scorcher,2nd,Evocation,VSM,1-a,0-i,30-f,0,0,,
+Aid,2nd,Abjuration,VSM,1-a,8-h,40-f,0,0,,
+Air Bubble,2nd,Conjuration,S,1-a,24-h,60-f,0,0,,
+Alter Self,2nd,Transmutation,VS,1-a,1-h,0-s,1,0,,
+Animal Messenger,2nd,Enchantment,VSM,1-a,24-h,30-f,0,1,,
+Arcane Lock,2nd,Abjuration,VSM,1-a,0-ud,0-t,0,0,,
+Arcanist's Magic Aura,2nd,Illusion,VSM,1-a,24-h,0-t,0,0,,
+Augury,2nd,Divination,VSM,1-m,0-i,0-s,0,1,,
+Barkskin,2nd,Transmutation,VSM,1-a,1-h,0-t,1,0,,
+Beast Sense,2nd,Divination,S,1-a,1-h,0-t,1,1,,
+Blindness/Deafness,2nd,Necromancy,V,1-a,1-m,30-f,0,0,,
+Blur,2nd,Illusion,V,1-a,1-m,0-s,1,0,,
+Borrowed Knowledge,2nd,Divination,VSM,1-a,1-h,0-s,0,0,,
+Branding Smite,2nd,Evocation,V,1-b,1-m,0-s,1,0,,
+Calm Emotions,2nd,Enchantment,VS,1-a,1-m,60-f,1,0,,
+Cloud of Daggers,2nd,Conjuration,VSM,1-a,1-m,60-f,1,0,,
+Continual Flame,2nd,Evocation,VSM,1-a,0-ud,0-t,0,0,,
+Cordon of Arrows,2nd,Transmutation,VSM,1-a,8-h,5-f,0,0,,
+Crown of Madness,2nd,Enchantment,VS,1-a,1-m,120-f,1,0,,
+Darkness,2nd,Evocation,VM,1-a,10-m,60-f,1,0,,
+Darkvision,2nd,Transmutation,VSM,1-a,8-h,0-t,0,0,,
+Detect Thoughts,2nd,Divination,VSM,1-a,1-m,0-s,1,0,,
+Dragon's Breath,2nd,Transmutation,VSM,1-b,1-m,0-t,1,0,,
+Dust Devil,2nd,Conjuration,VSM,1-a,1-m,60-f,1,0,,
+Earthbind,2nd,Transmutation,V,1-a,1-m,300-ft,1,0,,
+Enhance Ability,2nd,Transmutation,VSM,1-a,1-h,0-t,1,0,,
+Enlarge/Reduce,2nd,Transmutation,VSM,1-a,1-m,30-f,1,0,,
+Enthrall,2nd,Enchantment,VS,1-a,1-m,60-f,0,0,,
+Find Steed,2nd,Conjuration,VS,10-m,0-i,30-f,0,0,,
+Find Traps,2nd,Divination,VS,1-a,0-i,120-f,0,0,,
+Flame Blade,2nd,Evocation,VSM,1-b,10-m,0-s,1,0,,
+Flaming Sphere,2nd,Conjuration,VSM,1-a,1-m,60-f,1,0,,
+Flock of Familiars,2nd,Conjuration,VS,1-m,1-h,0-t,1,0,,
+Gentle Repose,2nd,Necromancy,VSM,1-a,10-d,0-t,0,1,,
+Gift of Gab,2nd,Enchantment,VSMR,1-r,0-i,0-s,0,0,,
+Gust of Wind,2nd,Evocation,VSM,1-a,1-m,0-s,1,0,,
+Healing Spirit,2nd,Conjuration,VS,1-b,1-m,60-f,1,0,,
+Heat Metal,2nd,Transmutation,VSM,1-a,1-m,60-f,1,0,,
+Hold Person,2nd,Enchantment,VSM,1-a,1-m,60-f,1,0,,
+Invisibility,2nd,Illusion,VSM,1-a,1-h,0-t,1,0,,
+Jim's Glowing Coin,2nd,Enchantment,SMR,1-a,1-m,60-f,0,0,,
+Kinetic Jaunt,2nd,Transmutation,S,1-b,1-m,0-s,1,0,,
+Knock,2nd,Transmutation,V,1-a,0-i,60-f,0,0,,
+Lesser Restoration,2nd,Abjuration,VS,1-a,0-i,0-t,0,0,,
+Levitate,2nd,Transmutation,VSM,1-a,10-m,60-f,1,0,,
+Locate Animals or Plants,2nd,Divination,VSM,1-a,0-i,0-s,0,1,,
+Locate Object,2nd,Divination,VSM,1-a,10-m,0-s,1,0,,
+Magic Mouth,2nd,Illusion,VSM,1-m,0-ud,30-f,0,1,,
+Magic Weapon,2nd,Transmutation,VS,1-b,1-h,0-t,1,0,,
+Maximilian's Earthen Grasp,2nd,Transmutation,VSM,1-a,1-m,30-f,1,0,,
+Melf's Acid Arrow,2nd,Evocation,VSM,1-a,0-i,90-f,0,0,,
+Mind Spike,2nd,Divination,S,1-a,1-h,60-f,1,0,,
+Mirror Image,2nd,Illusion,VS,1-a,1-m,0-s,0,0,,
+Misty Step,2nd,Conjuration,V,1-b,0-i,0-s,0,0,,
+Moonbeam,2nd,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Nathair's Mischief,2nd,Illusion,SM,1-a,1-m,60-f,1,0,,
+Nystul's Magic Aura,2nd,Illusion,VSM,1-a,24-h,0-t,0,0,,
+Pass without Trace,2nd,Abjuration,VSM,1-a,1-h,0-s,1,0,,
+Phantasmal Force,2nd,Illusion,VSM,1-a,1-m,60-f,1,0,,
+Prayer of Healing,2nd,Evocation,V,10-m,0-i,30-f,0,0,,
+Protection from Poison,2nd,Abjuration,VS,1-a,1-h,0-t,0,0,,
+Pyrotechnics,2nd,Transmutation,VS,1-a,0-i,60-f,0,0,,
+Ray of Enfeeblement,2nd,Necromancy,VS,1-a,1-m,60-f,1,0,,
+Rime's Binding Ice,2nd,Evocation,SM,1-a,0-i,0-s,0,0,,
+Rope Trick,2nd,Transmutation,VSM,1-a,1-h,0-t,0,0,,
+Scorching Ray,2nd,Evocation,VS,1-a,0-i,120-f,0,0,,
+See Invisibility,2nd,Divination,VSM,1-a,1-h,0-s,0,0,,
+Shadow Blade,2nd,Illusion,VS,1-b,1-m,0-s,1,0,,
+Shatter,2nd,Evocation,VSM,1-a,0-i,60-f,0,0,,
+Silence,2nd,Illusion,VS,1-a,10-m,120-f,1,1,,
+Skywrite,2nd,Transmutation,VS,1-a,1-h,0-st,1,1,,
+Snilloc's Snowball Swarm,2nd,Evocation,VSM,1-a,0-i,90-f,0,0,,
+Spider Climb,2nd,Transmutation,VSM,1-a,1-h,0-t,1,0,,
+Spike Growth,2nd,Transmutation,VSM,1-a,10-m,150-f,1,0,,
+Spiritual Weapon,2nd,Evocation,VS,1-b,1-m,60-f,0,0,,
+Spray of Cards,2nd,Conjuration,VSM,1-a,0-i,0-s,0,0,,
+Suggestion,2nd,Enchantment,VM,1-a,8-h,30-f,1,0,,
+Summon Beast,2nd,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Tasha's Mind Whip,2nd,Enchantment,V,1-a,1-r,90-f,0,0,,
+Vortex Warp,2nd,Conjuration,VS,1-a,0-i,90-f,0,0,,
+Warding Bond,2nd,Abjuration,VSM,1-a,1-h,0-t,0,0,,
+Warding Wind,2nd,Evocation,V,1-a,10-m,0-s,1,0,,
+Warp Sense,2nd,Divination,VSM,1-a,1-m,0-s,1,0,,
+Web,2nd,Conjuration,VSM,1-a,1-h,60-f,1,0,,
+Wither and Bloom,2nd,Necromancy,VSM,1-a,0-i,60-f,0,0,,
+Zone of Truth,2nd,Enchantment,VS,1-a,10-m,60-f,0,0,,
+Animate Dead,3rd,Necromancy,VSM,1-m,0-i,10-f,0,0,,
+Antagonize,3rd,Enchantment,VSM,1-a,0-i,30-f,0,0,,
+Ashardalon's Stride,3rd,Transmutation,VS,1-b,1-m,0-s,1,0,,
+Aura of Vitality,3rd,Evocation,V,1-a,1-m,0-s,1,0,,
+Beacon of Hope,3rd,Abjuration,VS,1-a,1-m,30-f,1,0,,
+Bestow Curse,3rd,Necromancy,VS,1-a,1-m,0-t,1,0,,
+Blinding Smite,3rd,Evocation,V,1-b,1-m,0-s,1,0,,
+Blink,3rd,Transmutation,VS,1-a,1-m,0-s,0,0,,
+Call Lightning,3rd,Conjuration,VS,1-a,10-m,120-f,1,0,,
+Catnap,3rd,Enchantment,SM,1-a,10-m,30-f,0,0,,
+Clairvoyance,3rd,Divination,VSM,10-m,10-m,1-m,1,0,,
+Conjure Animals,3rd,Conjuration,VS,1-a,1-h,60-f,1,0,,
+Conjure Barrage,3rd,Conjuration,VSM,1-a,0-i,0-s,0,0,,
+Counterspell,3rd,Abjuration,S,1-r,0-i,60-f,0,0,,
+Create Food and Water,3rd,Conjuration,VS,1-a,0-i,30-f,0,0,,
+Crusader's Mantle,3rd,Evocation,V,1-a,1-m,0-s,1,0,,
+Daylight,3rd,Evocation,VS,1-a,1-h,60-f,0,0,,
+Dispel Magic,3rd,Abjuration,VS,1-a,0-i,120-f,0,0,,
+Elemental Weapon,3rd,Transmutation,VS,1-a,1-h,0-t,1,0,,
+Enemies Abound,3rd,Enchantment,VS,1-a,1-m,120-f,1,0,,
+Erupting Earth,3rd,Transmutation,VSM,1-a,0-i,120-f,0,0,,
+Fast Friends,3rd,Enchantment,V,1-a,1-h,30-f,1,0,,
+Fear,3rd,Illusion,VSM,1-a,1-m,0-s,1,0,,
+Feign Death,3rd,Necromancy,VSM,1-a,1-h,0-t,0,1,,
+Fireball,3rd,Evocation,VSM,1-a,0-i,150-f,0,0,,
+Flame Arrows,3rd,Transmutation,VS,1-a,1-h,0-t,1,0,,
+Fly,3rd,Transmutation,VSM,1-a,10-m,0-t,1,0,,
+Galder's Tower,3rd,Conjuration,VSM,10-m,24-h,30-f,0,0,,
+Gaseous Form,3rd,Transmutation,VSM,1-a,1-h,0-t,1,0,,
+Glyph of Warding,3rd,Abjuration,VSM,1-h,0-udt,0-t,0,0,,
+Haste,3rd,Transmutation,VSM,1-a,1-m,30-f,1,0,,
+Hunger of Hadar,3rd,Conjuration,VSM,1-a,1-m,150-f,1,0,,
+Hypnotic Pattern,3rd,Illusion,SM,1-a,1-m,120-f,1,0,,
+Incite Greed,3rd,Enchantment,VSM,1-a,1-m,30-f,1,0,,
+Intellect Fortress,3rd,Abjuration,V,1-a,1-h,30-f,1,0,,
+Leomund's Tiny Hut,3rd,Evocation,VSM,1-m,8-h,0-s,0,1,,
+Life Transference,3rd,Necromancy,VS,1-a,0-i,30-f,0,0,,
+Lightning Arrow,3rd,Transmutation,VS,1-b,1-m,0-s,1,0,,
+Lightning Bolt,3rd,Evocation,VSM,1-a,0-i,0-s,0,0,,
+Magic Circle,3rd,Abjuration,VSM,1-m,1-h,10-f,0,0,,
+Major Image,3rd,Illusion,VSM,1-a,10-m,120-f,1,0,,
+Mass Healing Word,3rd,Evocation,V,1-b,0-i,60-f,0,0,,
+Meld into Stone,3rd,Transmutation,VS,1-a,8-h,0-t,0,1,,
+Melf's Minute Meteors,3rd,Evocation,VSM,1-a,10-m,0-s,1,0,,
+Motivational Speech,3rd,Enchantment,V,1-m,1-h,60-f,0,0,,
+Nondetection,3rd,Abjuration,VSM,1-a,8-h,0-t,0,0,,
+Phantom Steed,3rd,Illusion,VS,1-m,1-h,30-f,0,1,,
+Plant Growth,3rd,Transmutation,VS,0-s,0-i,150-f,0,0,,
+Protection from Energy,3rd,Abjuration,VS,1-a,1-h,0-t,1,0,,
+Remove Curse,3rd,Abjuration,VS,1-a,0-i,0-t,0,0,,
+Revivify,3rd,Necromancy,VSM,1-a,0-i,0-t,0,0,,
+Sending,3rd,Evocation,VSM,1-a,1-r,0-u,0,0,,
+Sleet Storm,3rd,Conjuration,VSM,1-a,1-m,150-f,1,0,,
+Slow,3rd,Transmutation,VSM,1-a,1-m,120-f,1,0,,
+Speak with Dead,3rd,Necromancy,VSM,1-a,10-m,10-f,0,0,,
+Speak with Plants,3rd,Transmutation,VS,1-a,10-m,0-s,0,0,,
+Spirit Guardians,3rd,Conjuration,VSM,1-a,10-m,0-s,1,0,,
+Spirit Shroud,3rd,Necromancy,VS,1-b,1-m,0-s,1,0,,
+Stinking Cloud,3rd,Conjuration,VSM,1-a,1-m,90-f,1,0,,
+Summon Fey,3rd,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Lesser Demons,3rd,Conjuration,VSM,1-a,1-h,60-f,1,0,,
+Summon Shadowspawn,3rd,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Undead,3rd,Necromancy,VSM,1-a,1-h,90-f,1,0,,
+Thunder Step,3rd,Conjuration,V,1-a,0-i,90-f,0,0,,
+Tidal Wave,3rd,Conjuration,VSM,1-a,0-i,120-f,0,0,,
+Tiny Hut,3rd,Evocation,VSM,1-m,8-h,0-s,0,1,,
+Tiny Servant,3rd,Transmutation,VS,1-m,8-h,0-t,0,0,,
+Tongues,3rd,Divination,VM,1-a,1-h,0-t,0,0,,
+Vampiric Touch,3rd,Necromancy,VS,1-a,1-m,0-s,1,0,,
+Wall of Sand,3rd,Evocation,VSM,1-a,10-m,90-f,1,0,,
+Wall of Water,3rd,Evocation,VSM,1-a,10-m,60-f,1,0,,
+Water Breathing,3rd,Transmutation,VSM,1-a,24-h,30-f,0,1,,
+Water Walk,3rd,Transmutation,VSM,1-a,1-h,30-f,0,1,,
+Wind Wall,3rd,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Arcane Eye,4th,Divination,VSM,1-a,1-h,30-f,1,0,,
+Aura of Life,4th,Abjuration,V,1-a,10-m,0-s,1,0,,
+Aura of Purity,4th,Abjuration,V,1-a,10-m,0-s,1,0,,
+Banishment,4th,Abjuration,VSM,1-a,1-m,60-f,1,0,,
+Black Tentacles,4th,Conjuration,VSM,1-a,1-m,90-f,1,0,,
+Blight,4th,Necromancy,VS,1-a,0-i,30-f,0,0,,
+Charm Monster,4th,Enchantment,VS,1-a,1-h,30-f,0,0,,
+Compulsion,4th,Enchantment,VS,1-a,1-m,30-f,1,0,,
+Confusion,4th,Enchantment,VSM,1-a,1-m,90-f,1,0,,
+Conjure Minor Elementals,4th,Conjuration,VS,1-m,1-h,90-f,1,0,,
+Conjure Woodland Beings,4th,Conjuration,VSM,1-a,1-h,60-f,1,0,,
+Control Water,4th,Transmutation,VSM,1-a,10-m,300-f,1,0,,
+Death Ward,4th,Abjuration,VS,1-a,8-h,0-t,0,0,,
+Dimension Door,4th,Conjuration,V,1-a,0-i,500-f,0,0,,
+Divination,4th,Divination,VSM,1-a,0-i,0-s,0,1,,
+Dominate Beast,4th,Enchantment,VS,1-a,1-m,60-f,1,0,,
+Elemental Bane,4th,Transmutation,VS,1-a,1-m,90-f,1,0,,
+Evard's Black Tentacles,4th,Conjuration,VSM,1-a,1-m,90-f,1,0,,
+Fabricate,4th,Transmutation,VS,10-m,0-i,120-f,0,0,,
+Faithful Hound,4th,Conjuration,VSM,1-a,8-h,30-f,0,0,,
+Find Greater Steed,4th,Conjuration,VS,10-m,0-i,30-f,0,0,,
+Fire Shield,4th,Evocation,VSM,1-a,10-m,0-s,0,0,,
+Freedom of Movement,4th,Abjuration,VSM,1-a,1-h,0-t,0,0,,
+Galder's Speedy Courier,4th,Conjuration,VSM,1-a,10-m,10-f,0,0,,
+Gate Seal,4th,Abjuration,VSM,1-m,14-h,60-f,0,0,,
+Giant Insect,4th,Transmutation,VS,1-a,10-m,30-f,1,0,,
+Grasping Vine,4th,Conjuration,VS,1-b,1-m,30-f,1,0,,
+Greater Invisibility,4th,Illusion,VS,1-a,1-m,0-t,1,0,,
+Guardian of Faith,4th,Conjuration,V,1-a,8-h,30-f,0,0,,
+Guardian of Nature,4th,Transmutation,V,1-b,1-m,0-s,1,0,,
+Hallucinatory Terrain,4th,Illusion,VSM,10-m,24-h,300-f,0,0,,
+Ice Storm,4th,Evocation,VSM,1-a,0-i,300-f,0,0,,
+Leomund's Secret Chest,4th,Conjuration,VSM,1-a,0-i,0-t,0,0,,
+Locate Creature,4th,Divination,VSM,1-a,1-h,0-s,1,0,,
+Mordenkainen's Faithful Hound,4th,Conjuration,VSM,1-a,8-h,30-f,0,0,,
+Mordenkainen's Private Sanctum,4th,Abjuration,VSM,10-m,24-h,120-f,0,0,,
+Otiluke's Resilient Sphere,4th,Evocation,VSM,1-a,1-m,30-f,1,0,,
+Phantasmal Killer,4th,Illusion,VS,1-a,1-m,120-f,1,0,,
+Polymorph,4th,Transmutation,VSM,1-a,1-h,60-f,1,0,,
+Private Sanctum,4th,Abjuration,VSM,10-m,24-h,120-f,0,0,,
+Raulothim's Psychic Lance,4th,Enchantment,V,1-a,0-i,120-f,0,0,,
+Resilient Sphere,4th,Evocation,VSM,1-a,1-m,30-f,1,0,,
+Secret Chest,4th,Conjuration,VSM,1-a,0-i,0-t,0,0,,
+Shadow of Moil,4th,Necromancy,VSM,1-a,1-m,0-s,1,0,,
+Sickening Radiance,4th,Evocation,VS,1-a,10-m,120-f,1,0,,
+Spirit of Death,4th,Necromancy,VSM,1-a,1-h,60-f,1,0,,
+Staggering Smite,4th,Evocation,V,1-b,1-m,0-s,1,0,,
+Stone Shape,4th,Transmutation,VSM,1-a,0-i,0-t,0,0,,
+Stoneskin,4th,Abjuration,VSM,1-a,1-h,0-t,1,0,,
+Storm Sphere,4th,Evocation,VS,1-a,1-m,150-f,1,0,,
+Summon Aberration,4th,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Construct,4th,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Elemental,4th,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Greater Demon,4th,Conjuration,VSM,1-a,1-h,60-f,1,0,,
+Vitriolic Sphere,4th,Evocation,VSM,1-a,0-i,150-f,0,0,,
+Wall of Fire,4th,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Watery Sphere,4th,Conjuration,VSM,1-a,1-m,90-f,1,0,,
+Animate Objects,5th,Transmutation,VS,1-a,1-m,120-f,1,0,,
+Antilife Shell,5th,Abjuration,VS,1-a,1-h,0-s,1,0,,
+Arcane Hand,5th,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Awaken,5th,Transmutation,VSM,8-h,0-i,0-t,0,0,,
+Banishing Smite,5th,Abjuration,V,1-b,1-m,0-s,1,0,,
+Bigby's Hand,5th,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Circle of Power,5th,Abjuration,V,1-a,10-m,0-s,1,0,,
+Cloudkill,5th,Conjuration,VS,1-a,10-m,120-f,1,0,,
+Commune,5th,Divination,VSM,1-m,1-m,0-s,0,1,,
+Commune with Nature,5th,Divination,VS,1-m,0-i,0-s,0,1,,
+Cone of Cold,5th,Evocation,VSM,1-a,0-i,0-s,0,0,,
+Conjure Elemental,5th,Conjuration,VSM,1-m,1-h,90-f,1,0,,
+Conjure Volley,5th,Conjuration,VSM,1-a,0-i,150-f,0,0,,
+Contact Other Plane,5th,Divination,V,1-m,1-m,0-s,0,1,,
+Contagion,5th,Necromancy,VS,1-a,7-d,0-t,0,0,,
+Control Winds,5th,Transmutation,VS,1-a,1-h,300-f,1,0,,
+Create Spelljamming Helm,5th,Transmutation,VSM,1-a,0-i,0-t,0,0,,
+Creation,5th,Illusion,VSM,1-m,0-s,30-f,0,0,,
+Danse Macabre,5th,Necromancy,VS,1-a,1-h,60-f,1,0,,
+Dawn,5th,Evocation,VSM,1-a,1-m,60-f,1,0,,
+Destructive Wave,5th,Evocation,V,1-a,0-i,0-s,0,0,,
+Dispel Evil and Good,5th,Abjuration,VSM,1-a,1-m,0-s,1,0,,
+Dominate Person,5th,Enchantment,VS,1-a,1-m,60-f,1,0,,
+Dream,5th,Illusion,VSM,1-m,8-h,0-s,0,0,,
+Enervation,5th,Necromancy,VS,1-a,1-m,60-f,1,0,,
+Far Step,5th,Conjuration,V,1-b,1-m,0-s,1,0,,
+Flame Strike,5th,Evocation,VSM,1-a,0-i,60-f,0,0,,
+Geas,5th,Enchantment,V,1-m,30-d,60-f,0,0,,
+Greater Restoration,5th,Abjuration,VSM,1-a,0-i,0-t,0,0,,
+Hallow,5th,Evocation,VSM,24-h,0-ud,0-t,0,0,,
+Hold Monster,5th,Enchantment,VSM,1-a,1-m,90-f,1,0,,
+Holy Weapon,5th,Evocation,VS,1-b,1-h,0-t,1,0,,
+Immolation,5th,Evocation,V,1-a,1-m,90-f,1,0,,
+Infernal Calling,5th,Conjuration,VSM,1-m,1-h,90-f,1,0,,
+Insect Plague,5th,Conjuration,VSM,1-a,10-m,300-f,1,0,,
+Legend Lore,5th,Divination,VSM,10-m,0-i,0-s,0,0,,
+Maelstrom,5th,Evocation,VSM,1-a,1-m,120-f,1,0,,
+Mass Cure Wounds,5th,Evocation,VS,1-a,0-i,60-f,0,0,,
+Mislead,5th,Illusion,S,1-a,1-h,0-s,1,0,,
+Modify Memory,5th,Enchantment,VS,1-a,1-m,30-f,1,0,,
+Negative Energy Flood,5th,Necromancy,VM,1-a,0-i,60-f,0,0,,
+Passwall,5th,Transmutation,VSM,1-a,1-h,30-f,0,0,,
+Planar Binding,5th,Abjuration,VSM,1-h,24-h,60-f,0,0,,
+Raise Dead,5th,Necromancy,VSM,1-h,0-i,0-t,0,0,,
+Rary's Telepathic Bond,5th,Divination,VSM,1-a,1-h,30-f,0,1,,
+Reincarnate,5th,Transmutation,VSM,1-h,0-i,0-t,0,0,,
+Scrying,5th,Divination,VSM,10-m,10-m,0-s,1,0,,
+Seeming,5th,Illusion,VS,1-a,8-h,30-f,0,0,,
+Skill Empowerment,5th,Transmutation,VS,1-a,1-h,0-t,1,0,,
+Steel Wind Strike,5th,Conjuration,SM,1-a,0-i,30-f,0,0,,
+Summon Celestial,5th,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Summon Draconic Spirit,5th,Conjuration,VSM,1-a,1-h,60-f,1,0,,
+Swift Quiver,5th,Transmutation,VSM,1-b,1-m,0-t,1,0,,
+Synaptic Static,5th,Enchantment,VS,1-a,0-i,120-f,0,0,,
+Telekinesis,5th,Transmutation,VS,1-a,10-m,60-f,1,0,,
+Telepathic Bond,5th,Divination,VSM,1-a,1-h,30-f,0,1,,
+Teleportation Circle,5th,Conjuration,VM,1-m,1-r,10-f,0,0,,
+Transmute Rock,5th,Transmutation,VSM,1-a,0-ud,120-f,0,0,,
+Tree Stride,5th,Conjuration,VS,1-a,1-m,0-s,1,0,,
+Wall of Force,5th,Evocation,VSM,1-a,10-m,120-f,1,0,,
+Wall of Light,5th,Evocation,VSM,1-a,10-m,120-f,1,0,,
+Wall of Stone,5th,Evocation,VSM,1-a,10-m,120-f,1,0,,
+Wrath of Nature,5th,Evocation,VS,1-a,1-m,120-f,1,0,,
+Arcane Gate,6th,Conjuration,VS,1-a,10-m,500-f,1,0,,
+Blade Barrier,6th,Evocation,VS,1-a,10-m,90-f,1,0,,
+Bones of the Earth,6th,Transmutation,VS,1-a,0-i,120-f,0,0,,
+Chain Lightning,6th,Evocation,VSM,1-a,0-i,150-f,0,0,,
+Circle of Death,6th,Necromancy,VSM,1-a,0-i,150-f,0,0,,
+Conjure Fey,6th,Conjuration,VS,1-m,1-h,90-f,1,0,,
+Contingency,6th,Evocation,VSM,10-m,10-d,0-s,0,0,,
+Create Homunculus,6th,Transmutation,VSM,1-h,0-i,0-t,0,0,,
+Create Undead,6th,Necromancy,VSM,1-m,0-i,10-f,0,0,,
+Disintegrate,6th,Transmutation,VSM,1-a,0-i,60-f,0,0,,
+Drawmij's Instant Summons,6th,Conjuration,VSM,1-m,0-ud,0-t,0,1,,
+Druid Grove,6th,Abjuration,VSM,10-m,24-h,0-t,0,0,,
+Eyebite,6th,Necromancy,VS,1-a,1-m,0-s,1,0,,
+Find the Path,6th,Divination,VSM,1-m,1-d,0-s,1,0,,
+Fizban's Platinum Shield,6th,Abjuration,VSM,1-b,1-m,60-f,1,0,,
+Flesh to Stone,6th,Transmutation,VSM,1-a,1-m,60-f,1,0,,
+Forbiddance,6th,Abjuration,VSM,10-m,1-d,0-t,0,1,,
+Freezing Sphere,6th,Evocation,VSM,1-a,0-i,300-f,0,0,,
+Globe of Invulnerability,6th,Abjuration,VSM,1-a,1-m,0-s,1,0,,
+Guards and Wards,6th,Abjuration,VSM,10-m,24-h,0-t,0,0,,
+Harm,6th,Necromancy,VS,1-a,0-i,60-f,0,0,,
+Heal,6th,Evocation,VS,1-a,0-i,60-f,0,0,,
+Heroes' Feast,6th,Conjuration,VSM,10-m,0-i,30-f,0,0,,
+Instant Summons,6th,Conjuration,VSM,1-m,0-ud,0-t,0,1,,
+Investiture of Flame,6th,Transmutation,VS,1-a,10-m,0-s,1,0,,
+Investiture of Ice,6th,Transmutation,VS,1-a,10-m,0-s,1,0,,
+Investiture of Stone,6th,Transmutation,VS,1-a,10-m,0-s,1,0,,
+Investiture of Wind,6th,Transmutation,VS,1-a,10-m,0-s,1,0,,
+Magic Jar,6th,Necromancy,VSM,1-m,0-ud,0-s,0,0,,
+Mass Suggestion,6th,Enchantment,VM,1-a,24-h,60-f,0,0,,
+Mental Prison,6th,Illusion,S,1-a,1-m,60-f,1,0,,
+Move Earth,6th,Transmutation,VSM,1-a,2-h,120-f,1,0,,
+Otiluke's Freezing Sphere,6th,Evocation,VSM,1-a,0-i,300-f,0,0,,
+Otto's Irresistible Dance,6th,Enchantment,V,1-a,1-m,30-f,1,0,,
+Planar Ally,6th,Conjuration,VS,10-m,0-i,60-f,0,0,,
+Primordial Ward,6th,Abjuration,VS,1-a,1-m,0-s,1,0,,
+Programmed Illusion,6th,Illusion,VSM,1-a,0-ud,120-f,0,0,,
+Scatter,6th,Conjuration,V,1-a,0-i,30-f,0,0,,
+Soul Cage,6th,Necromancy,VSM,1-r,8-h,60-f,0,0,,
+Summon Fiend,6th,Conjuration,VSM,1-a,1-h,90-f,1,0,,
+Sunbeam,6th,Evocation,VSM,1-a,1-m,0-s,1,0,,
+Tasha's Otherwordly Guise,6th,Transmutation,VSM,1-b,1-m,0-s,1,0,,
+Tenser's Transformation,6th,Transmutation,VSM,1-a,10-m,0-s,1,0,,
+Transport via Plants,6th,Conjuration,VS,1-a,1-r,10-f,0,0,,
+True Seeing,6th,Divination,VSM,1-a,1-h,0-t,0,0,,
+Wall of Ice,6th,Evocation,VSM,1-a,10-m,120-f,1,0,,
+Wall of Thorns,6th,Conjuration,VSM,1-a,10-m,120-f,1,0,,
+Wind Walk,6th,Transmutation,VSM,1-m,8-h,30-f,0,0,,
+Word of Recall,6th,Conjuration,V,1-a,0-i,5-f,0,0,,
+Conjure Celestial,7th,Conjuration,VS,1-m,1-h,90-f,1,0,,
+Create Magen,7th,Transmutation,VSM,1-h,0-i,0-t,0,0,,
+Crown of Stars,7th,Evocation,VS,1-a,1-h,0-s,0,0,,
+Delayed Blast Fireball,7th,Evocation,VSM,1-a,1-m,150-f,1,0,,
+Divine Word,7th,Evocation,V,1-b,0-i,30-f,0,0,,
+Draconic Transformation,7th,Transmutation,VSM,1-b,1-m,0-s,1,0,,
+Dream of the Blue Veil,7th,Conjuration,VSM,10-m,6-h,20-f,0,0,,
+Etherealness,7th,Transmutation,VS,1-a,8-h,0-s,0,0,,
+Finger of Death,7th,Necromancy,VS,1-a,0-i,60-f,0,0,,
+Fire Storm,7th,Evocation,VS,1-a,0-i,150-f,0,0,,
+Forcecage,7th,Evocation,VSM,1-a,1-h,100-f,0,0,,
+Magnificent Mansion,7th,Conjuration,VSM,1-m,24-h,300-f,0,0,,
+Mirage Arcane,7th,Illusion,VS,10-m,10-d,0-st,0,0,,
+Mordenkainen's Magnificent Mansion,7th,Conjuration,VSM,1-m,24-h,300-f,0,0,,
+Mordenkainen's Sword,7th,Evocation,VSM,1-a,1-m,60-f,1,0,,
+Plane Shift,7th,Conjuration,VSM,1-a,0-i,0-t,0,0,,
+Power Word Pain,7th,Enchantment,V,1-a,0-i,60-f,0,0,,
+Prismatic Spray,7th,Evocation,VS,1-a,0-i,0-s,0,0,,
+Project Image,7th,Illusion,VSM,1-a,1-d,500-m,1,0,,
+Regenerate,7th,Transmutation,VSM,1-m,1-h,0-t,0,0,,
+Resurrection,7th,Necromancy,VSM,1-h,0-i,0-t,0,0,,
+Reverse Gravity,7th,Transmutation,VSM,1-a,1-m,100-f,1,0,,
+Sequester,7th,Transmutation,VSM,1-a,0-ud,0-t,0,0,,
+Simulacrum,7th,Illusion,VSM,12-h,0-ud,0-t,0,0,,
+Symbol,7th,Abjuration,VSM,1-m,0-udt,0-t,0,0,,
+Teleport,7th,Conjuration,V,1-a,0-i,10-f,0,0,,
+Temple of the Gods,7th,Conjuration,VSM,1-h,24-h,120-f,0,0,,
+Whirlwind,7th,Evocation,VM,1-a,1-m,300-f,1,0,,
+Abi-Dalzim's Horrid Wilting,8th,Necromancy,VSM,1-a,0-i,150-f,0,0,,
+Animal Shapes,8th,Transmutation,VS,1-a,24-h,30-f,1,0,,
+Antimagic Field,8th,Abjuration,VSM,1-a,1-h,0-s,1,0,,
+Antipathy/Sympathy,8th,Enchantment,VSM,1-h,10-d,60-f,0,0,,
+Clone,8th,Necromancy,VSM,1-h,0-i,0-t,0,0,,
+Control Weather,8th,Transmutation,VSM,10-m,8-h,0-s,1,0,,
+Demiplane,8th,Conjuration,S,1-a,1-h,60-f,0,0,,
+Dominate Monster,8th,Enchantment,VS,1-a,1-h,60-f,1,0,,
+Earthquake,8th,Evocation,VSM,1-a,1-m,500-f,1,0,,
+Feeblemind,8th,Enchantment,VSM,1-a,0-i,150-f,0,0,,
+Glibness,8th,Transmutation,V,1-a,1-h,0-s,0,0,,
+Holy Aura,8th,Abjuration,VSM,1-a,1-m,0-s,1,0,,
+Illusory Dragon,8th,Illusion,S,1-a,1-m,120-f,1,0,,
+Incendiary Cloud,8th,Conjuration,VS,1-a,1-m,150-f,1,0,,
+Maddening Darkness,8th,Evocation,VM,1-a,10-m,150-f,1,0,,
+Maze,8th,Conjuration,VS,1-a,10-m,60-f,1,0,,
+Mighty Fortress,8th,Conjuration,VSM,1-m,0-i,1-m,0,0,,
+Mind Blank,8th,Abjuration,VS,1-a,24-h,0-t,0,0,,
+Power Word Stun,8th,Enchantment,V,1-a,0-i,60-f,0,0,,
+Sunburst,8th,Evocation,VSM,1-a,0-i,150-f,0,0,,
+Telepathy,8th,Evocation,VSM,1-a,24-h,0-u,0,0,,
+Tsunami,8th,Conjuration,VS,1-m,6-r,0-st,1,0,,
+Astral Projection,9th,Necromancy,VSM,1-h,0-s,10-f,0,0,,
+Blade of Disaster,9th,Conjuration,VS,1-b,1-m,60-f,1,0,,
+Foresight,9th,Divination,VSM,1-m,8-h,0-t,0,0,,
+Gate,9th,Conjuration,VSM,1-a,1-m,60-f,1,0,,
+Imprisonment,9th,Abjuration,VSM,1-m,0-ud,30-f,0,0,,
+Invulnerability,9th,Abjuration,VSM,1-a,10-m,0-s,1,0,,
+Mass Heal,9th,Evocation,VS,1-a,0-i,60-f,0,0,,
+Mass Polymorph,9th,Transmutation,VSM,1-a,1-h,120-f,1,0,,
+Meteor Swarm,9th,Evocation,VS,1-a,0-i,1-m,0,0,,
+Power Word Heal,9th,Evocation,VS,1-a,0-i,0-t,0,0,,
+Power Word Kill,9th,Enchantment,V,1-a,0-i,60-f,0,0,,
+Prismatic Wall,9th,Abjuration,VS,1-a,10-m,60-f,0,0,,
+Psychic Scream,9th,Enchantment,S,1-a,0-i,90-f,0,0,,
+Shapechange,9th,Transmutation,VSM,1-a,1-h,0-s,1,0,,
+Storm of Vengeance,9th,Conjuration,VS,1-a,1-m,0-st,1,0,,
+Time Stop,9th,Transmutation,V,1-a,0-i,0-s,0,0,,
+True Polymorph,9th,Transmutation,VSM,1-a,1-h,30-f,1,0,,
+True Resurrection,9th,Necromancy,VSM,1-h,0-i,0-t,0,0,,
+Weird,9th,Illusion,VS,1-a,1-m,120-f,1,0,,
+Wish,9th,Conjuration,V,1-a,0-i,0-s,0,0,,

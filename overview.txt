@@ -1,0 +1,13 @@
+The first page is a character builder.  The user goes through all normal steps just like on DnD Beyond.  At the bottom of the screen, once they've completed all required options for the character, there will be a large button that says "Save Character Sheet".  This will create another page within the app with the character information.  
+
+The character sheet app page will likely simply invoke a function where the parameter is the character, and the function which lives inside another file will display the character information.
+
+Other pages already in the app can be information like spells and classes.
+
+Somewhere, a user will need to be able to level their character up.
+
+Option to export a character sheet (probably as a JSON) to send to other people to import into their app
+
+How will it track special race and class features in the character builder and write them into a character sheet?
+
+Features granted by race/subrace and class in the character builder (such as speed, spells, ASI, etc.) will only be applied to the Character object at the VERY END of character builder when the user hits "Save".  So keeping track of changes is much easier.
