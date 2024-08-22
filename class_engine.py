@@ -13,7 +13,7 @@ class Sorcerer:
 
         self.choices = {}
 
-        self.subclass_list = ["Aberrant Mind"]
+        self.subclass_list = {"Aberrant Mind": AberrantMind}
 
 
     def __repr__(self):
@@ -86,7 +86,7 @@ class Barbarian:
 
         self.choices = {}
 
-        self.subclass_list = ["Path of Wild Magic"]
+        self.subclass_list = {"Path of Wild Magic": PathOfWildMagic}
 
 
     def __repr__(self):
@@ -159,7 +159,7 @@ class Warlock:
 
         self.choices = {}
 
-        self.subclass_list = ["The Hexblade"]
+        self.subclass_list = {"The Hexblade": TheHexblade}
 
 
     def __repr__(self):
@@ -236,5 +236,3 @@ classes = {"Barbarian": Barbarian,
            "Warlock": Warlock,
            # "Wizard": Wizard 
            }
-
-subclasses = {""}

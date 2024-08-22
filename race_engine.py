@@ -6,7 +6,6 @@ from streamlit import session_state as ss
 
 # HUMANS
         
-
 class Human:
 
     def __init__(self):
@@ -19,7 +18,8 @@ class Human:
         
         self.subrace = None
 
-        self.subrace_list = ["Basic Human", "Variant Human"]
+        self.subrace_list = {"Basic Human": BasicHuman,
+                             "Variant Human": VariantHuman}
         
     
     def __repr__(self):
@@ -55,12 +55,12 @@ class Human:
         util.initialize_states(['human_subrace_ix'])
 
         st.markdown("## Subrace")
-        sr_choice = st.selectbox("Subrace", self.subrace_list, key = 'human_subrace',
+        sr_choice = st.selectbox("Subrace", self.subrace_list.keys(), key = 'human_subrace',
                                  index=ss.human_subrace_ix, placeholder="Choose a subrace", label_visibility="collapsed",
-                                 on_change=util.update_index, args=('human_subrace', 'human_subrace_ix', self.subrace_list))
+                                 on_change=util.update_index, args=('human_subrace', 'human_subrace_ix', list(self.subrace_list.keys())))
         
         if sr_choice is not None:
-            self.subrace = subraces[sr_choice]()
+            self.subrace = self.subrace_list[sr_choice]()
             self.subrace.traitText()
         
 
@@ -138,7 +138,9 @@ class Elf:
         
         self.subrace = None
 
-        self.subrace_list = ["Drow", "Eladrin", "High Elf"]
+        self.subrace_list = {"Drow": Drow, 
+                             "Eladrin": Eladrin, 
+                             "High Elf": HighElf}
 
     
     def __repr__(self):
@@ -186,12 +188,12 @@ class Elf:
         
         util.initialize_states(['elf_subrace_ix'])
 
-        sr_choice = st.selectbox("Subrace", self.subrace_list, key = 'elf_subrace',
+        sr_choice = st.selectbox("Subrace", self.subrace_list.keys(), key = 'elf_subrace',
                                  index=ss.elf_subrace_ix, placeholder="Choose a subrace", label_visibility="collapsed",
-                                 on_change=util.update_index, args=('elf_subrace', 'elf_subrace_ix', self.subrace_list))
+                                 on_change=util.update_index, args=('elf_subrace', 'elf_subrace_ix', list(self.subrace_list.keys())))
         
         if sr_choice is not None:
-            self.subrace = subraces[sr_choice]()
+            self.subrace = self.subrace_list[sr_choice]()
             self.subrace.traitText()
 
 
@@ -276,7 +278,5 @@ races = {"Elf": Elf,
          'Half-Elf': HalfElf,
          "Human": Human}
 
-subraces = {"Basic Human": BasicHuman,
-            "Variant Human": VariantHuman}
 
 
