@@ -128,11 +128,11 @@ class Elf:
 
     def __init__(self):
 
-        self.race_attributes = {"size": "Medium",
-                                  "speed": {"Walk": 30},
-                                  "skill_profs": ["Perception"],
-                                  "languages": ["Common", "Elvish"],
-                                  "asi": {"Dexterity": 2}}
+        self.attributes = {"size": "Medium",
+                           "speed": {"Walk": 30},
+                           "skill_profs": ["Perception"],
+                           "languages": ["Common", "Elvish"],
+                           "asi": {"Dexterity": 2}}
         
         self.choices = {}
         
@@ -216,10 +216,10 @@ class HalfElf:
 
     def __init__(self):
 
-        self.race_attributes = {"size": "Medium",
-                                  "speed": {"Walk": 30},
-                                  "languages": ["Common", "Elvish"],
-                                  "asi": {"Charisma": 2}}
+        self.attributes = {"size": "Medium",
+                           "speed": {"Walk": 30},
+                           "languages": ["Common", "Elvish"],
+                           "asi": {"Charisma": 2}}
         
         self.choices = {"asi1": None,
                         "asi2": None,

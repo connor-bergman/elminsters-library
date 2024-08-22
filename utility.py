@@ -26,13 +26,15 @@ def initialize_states(state_list):
             ss[state] = None
 
 
-def update_index(key, index, options):
+def update_index(key, index, options, extra=None):
     if key in ss:
         selection = ss[key]
         if selection in options:
             ss[index] = options.index(selection)
         else:
             ss[index] = None
+    if extra is not None and type(extra) == dict:
+        ss[extra["key"]] = extra["value"]
 
 
 def count_other_levels(classes, ix_to_ignore):

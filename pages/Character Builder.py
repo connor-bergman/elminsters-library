@@ -108,16 +108,20 @@ def class_section():
         c = n+1
 
         class_ix = f"class_{c}_ix"
-        class_level_ix = f"class_{c}_level_ix"
-        util.initialize_states([class_ix, class_level_ix])
+        util.initialize_states([class_ix])
+        if f"class_{c}_level_ix" not in ss:
+            ss[f"class_{c}_level_ix"] = 0
+        # class_level_ix = f"class_{c}_level_ix"
+        # util.initialize_states([class_ix, class_level_ix])
         ss[f"class_{c}_col1"], ss[f"class_{c}_col2"] = st.columns((7,2))
 
         util.limit_options(default_options=list(ce.classes.keys()), num_choices=ss.num_of_classes, template="class_")
-        util.update_index(f'class_{c}', f"class_{c}_ix", ss[f"class_{c}_options"])
+        util.update_index(f'class_{c}_api', f"class_{c}_ix", ss[f"class_{c}_options"])
         with ss[f"class_{c}_col1"]:
             st.selectbox("Class", ss[f"class_{c}_options"], key=f'class_{c}_api',
                                 index=ss[f"class_{c}_ix"], placeholder="Choose a class", label_visibility="collapsed",
-                                on_change=util.update_index, args=(f'class_{c}_api', f"class_{c}_ix", ss[f"class_{c}_options"]))
+                                on_change=util.update_index, args=(f'class_{c}_api', f"class_{c}_ix", ss[f"class_{c}_options"], 
+                                                                   {"key": f"class_{c}_level_ix", "value": 0}))
         ss[f'class_{c}'] = ss[f'class_{c}_api']
             
         if ss[f'class_{c}'] is not None:
