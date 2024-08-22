@@ -127,9 +127,7 @@ def class_section():
                 ss.classes[c].level = st.selectbox("Level", ss[f"class_{c}_level_options"], key=f"class_{c}_level",
                                 index=ss[f"class_{c}_level_ix"], placeholder="Level", label_visibility="collapsed",
                                 on_change=util.update_index, args=(f"class_{c}_level", f"class_{c}_level_ix", ss[f"class_{c}_level_options"]))
-                if ss.classes[c].level is not None:
-                    # do some shit
-                    pass
+            ss.classes[c].featureText()
         else:
             with ss[f"class_{c}_col2"]:
                 st.selectbox("Level", [], key=f"class_{c}_level_failed", index=None, placeholder="Level", label_visibility="collapsed")
