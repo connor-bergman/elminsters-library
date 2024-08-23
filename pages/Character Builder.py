@@ -111,8 +111,6 @@ def class_section():
         util.initialize_states([class_ix])
         if f"class_{c}_level_ix" not in ss:
             ss[f"class_{c}_level_ix"] = 0
-        # class_level_ix = f"class_{c}_level_ix"
-        # util.initialize_states([class_ix, class_level_ix])
         ss[f"class_{c}_col1"], ss[f"class_{c}_col2"] = st.columns((7,2))
 
         util.limit_options(default_options=list(ce.classes.keys()), num_choices=ss.num_of_classes, template="class_")
